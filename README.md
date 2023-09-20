@@ -5,4 +5,4 @@ Building code chat app
 
 - Install venv
 - download required packages
--  run server
+- run server
