@@ -5,4 +5,5 @@ Building code chat app
 
 - Install venv
 - download required packages (Django, langchain, dotenv, PyPDF2)
-- To run: python manage.py runserver
+- cd into bcodechat directory
+- Do: python manage.py runserver
